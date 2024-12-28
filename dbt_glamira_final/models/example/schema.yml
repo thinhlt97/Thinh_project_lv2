@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: stg_orders
+  - name: stg_products
+  - name: stg_customers
+tests:
+  - dbt_utils.expression_is_true:
+      expression: "quantity >= 0"
+
+
