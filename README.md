@@ -15,4 +15,4 @@ Thứ tự luồng dữ liệu
 - Tạo Dataset trên Bigquery
 - Upload các file lên GCS
 - Sử dụng dbt để tạo các bảng
-- Visualize bằng looker
+- Visualize bằng looker: https://lookerstudio.google.com/reporting/fb6de49a-a0c2-41d2-b56d-c7fea2f906a3
